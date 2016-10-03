@@ -30,5 +30,16 @@ Note: because the majority of the cortex is the neocortex, when someone speaks o
 
 What we consider to be human intelligence comes from the neocortex. For that reason HTM theory is about modelling the operating principles of the neocortex. This starts by understanding its structure.
 
-When learning about the structure of the neocortex one might find the four lobes: frontal, parietal, occipital and temporal. These names come from the names of the bones that overlay them.
+When learning about the structure of the neocortex one might find the four lobes: frontal, parietal, occipital and temporal. These names come from the names of the bones that overlay them. Although these names were just used for anatomical classification, there is actually some correlation to functionality too. The temporal, occipital and parietal lobes are mostly involved in processing sensory data, motor commands and memory. The largest lobe, the frontal lobe process more abstract tasks such as cognition, emotional control, planning, along with personality and social behavior.
+
+## Cortical Regions
+
+Within these lobes there are regions that have more specific functions. As an example - the occipital lobe processes visual information, which involves mostly two important cortical regions: the Primary Visual Cortex and the Visual Association Area. Most cortical regions are either processing sensory or motor information directly (i.e Visual Cortex), or they process it indirectly (i.e Visual Association Area). Indirect processing of sensory or motor information happens in associations areas where the input could come from one or more different cortical regions. They essentially integrate information from different regions.
+
+### Association Areas
+
+The human cortex is dominated by cortical regions called association areas. The size of all association areas in the brain correlate to the complexity of behavior and cognition in mammals. Each sensory cortical region sends its information to its own association area. These sensory association areas have simple inputs. For example, the Visual Association Area receives simple details such as edges and corners from the Visual Cortex. These individual details alone mean nothing, but as the association area integrates this information these simple edges and corners come together to form larger details such as textures, curves, shape, etc. Then those details integrate to form higher-level details such as eyes, wheels, leafs, etc. then again to form faces, cars and trees. This process occurs in upwards within a hierarchical structure which we will explore further.
+
+Association areas are not just connected to sensory cortical regions, they are also connected to many other association areas across the cortex. They are organized as a distributed network connected by the underlaying white matter. Adjacent areas are extensively connected together. The organizing principle of the network is a hierarchy.
+
 
