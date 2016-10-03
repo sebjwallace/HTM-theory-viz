@@ -38,8 +38,18 @@ Within these lobes there are regions that have more specific functions. As an ex
 
 ### Association Areas
 
-The human cortex is dominated by cortical regions called association areas. The size of all association areas in the brain correlate to the complexity of behavior and cognition in mammals. Each sensory cortical region sends its information to its own association area. These sensory association areas have simple inputs. For example, the Visual Association Area receives simple details such as edges and corners from the Visual Cortex. These individual details alone mean nothing, but as the association area integrates this information these simple edges and corners come together to form larger details such as textures, curves, shape, etc. Then those details integrate to form higher-level details such as eyes, wheels, leafs, etc. then again to form faces, cars and trees. This process occurs in upwards within a hierarchical structure which we will explore further.
+The human cortex is dominated by cortical regions called association areas. The size of all association areas in the brain correlate to the complexity of behavior and cognition in mammals. Each sensory cortical region sends its information to its own association area. These sensory association areas have simple inputs. For example, the Visual Association Area receives simple details such as edges and corners from the Visual Cortex. These individual details alone mean nothing, but as the association area integrates this information these simple edges and corners come together to form larger details such as textures, curves, shape, etc. Then those details integrate to form higher-level details such as eyes, wheels, leafs, etc. then again to form faces, cars and trees. This process occurs in upwards within a hierarchical structure.
 
-Association areas are not just connected to sensory cortical regions, they are also connected to many other association areas across the cortex. They are organized as a distributed network connected by the underlaying white matter. Adjacent areas are extensively connected together. The organizing principle of the network is a hierarchy.
+## The Neocortical Hierarchy
 
+Cortical regions are organized as a distributed network connected by the underlaying white matter. The organizing principle of the network is a hierarchy. The hierarchy can be generalized into three catigories: Primary Sensory Areas, Sensory Association Areas, and Higher-Order Association Areas. As we've seen so far the sensory areas feed information to the association areas then higher-order association areas recieve information from many multiple areas, so they have no particular association with any one sense. The prefrontal cortex is a complex structure of just higher-order association areas. Cognition, personality, planning, etc. are all higher-order functions. The prefrontal cortex is high up in the hierarchy, whereas the primary sensory areas are at the bottom.
 
+The flow of information in the hierarchy moves up and down similtanously. The flow upwards is called 'feedforward' while the flow downwards is 'feedback'. This interaction between feedforward and feedback will be discussed later on. For now we'll go a bit deeper into the structure of the cortex.
+
+## Neocortical Columns
+
+The neocortex is organized into a consistent structure of columns. The thickness of the cortex is the height of a column. These columns are highly inter-connected neuronal structures. They process individual details fedforward from the previous region or modality. For example, a single column in the Visual Cortex may only be interested in small 30° edges. Or in the Auditory Cortex a particular column may only be interested in processing a tone.
+
+## Neocortical Layers
+
+The cortex overlaying the white matter in the cerebrum is a multi-layered sheet of neurons. Unlike the allcortex which has 3 layers, the neocortex has 6 layers. Each layer has a different structural and functional connectivity of neurons and neuron types. This layered structure is completely consistent across the neorcortex with variations in thickness of the layers.
