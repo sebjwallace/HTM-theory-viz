@@ -6,7 +6,7 @@ A great deal of the functionality of the cortex comes from its anatomy. Neurons,
 
 The cerebrum is the largest and upper-most part of the brain. It consists of two hemispheres - the left and the right. Each hemisphere has three main structures: the cortex, subcortex, and the white matter inbetween.
 
-![cortex](./cortex.png)
+![cerebrum](./cerebrum.png)
 
 ### Cortex
 
