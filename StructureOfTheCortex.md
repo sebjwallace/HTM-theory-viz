@@ -68,4 +68,4 @@ There are input and output layers to all cortical regions. There are input and o
 
 ## Pyramidal Neurons
 
-Although there are many types of neurons that span the cortical layers, about 80% of them are pyramidal neurons. They are excititory neurons that receieve inputs from thousands of excititory synapses.
+Although there are many types of neurons that span the cortical layers, about 80% of them are pyramidal neurons. They are excititory neurons that receieve inputs from thousands of excititory synapses. Or in other words, they are connected to thousands of other neurons within the cortical region. A single neuron has a very small effect on another neuron. A neuron will only activate if a group other neurons its connected to activate at the same time. To get a better idea of how this works we will look at dendrites.
