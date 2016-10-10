@@ -10,7 +10,9 @@ The cerebrum is the largest and upper-most part of the brain. It consists of two
 
 ### Cortex
 
-The cortex is the outer layer of the cerebrum. It is a thin sheet of grey matter measuring about 2-4mm thick with an area 1 meter squared. The sheet is structured in six horizontal layers mostly made up of the cell bodies of neurons - giving it a grey-looking color, which is why its called grey matter. HTM theory is oriented around the cortex (specifically the neocortex). We'll go into much more detail later.
+The cortex is the outer layer of the cerebrum. It is a thin sheet of grey matter measuring about 2-4mm thick with an area 50cm squared. The sheet is structured in six horizontal layers mostly made up of the cell bodies of neurons - giving it a grey-looking color, which is why its called grey matter. HTM theory is oriented around the cortex (specifically the neocortex). We'll go into much more detail later.
+
+![matter](./matter.png)
 
 ### White Matter
 
