@@ -10,6 +10,10 @@ Leaving the details aside for now, here is the general structure of the cortical
 
 Although every cell has the same processing mechanism, they operate differently depending on who they're connected to. For example, neurons in layer 4 who connect to each other have a different function from the cells in layer 6 that connect to layers 3, 5 and input axons.
 
-Starting with the feedforward inputs from other regions, the thalumas, etc. the primary input layer is layer 4. On the way to layer 4 the layer 6 cells form synapses to input axons. Layer 4 performs the first classification of inputs then feeds onto layers 2/3 for further classification. From layers 2/3 the output feeds to other regions.
+Starting with the feedforward inputs from other regions, the thalumas, etc. the primary input layer is layer 4. On the way to layer 4 the layer 6 cells form synapses to the input axons. Layer 4 performs the first classification of inputs then feeds onto layers 2/3 for further classification. From layers 2/3 the output feeds to other regions.
+
+Feedback inputs from higher regions enter into layer 1 where the inputs are distributed across all the columns. Ignoring layer 5 (which is involved with motor output) the feedback pathway is just as simple the feedforward pathway. The inputs routed from layer 1 pass through layers 2/3 onto layer 6. As layer 6 has synaptic connections with feedforward inputs, it combines the classifications from layers 2/3 with the classifications of the lower regions layers 2/3 axons. Layer 6 then feeds back to the lower region for feedback input.
+
+Further details on the functions of these layers will be illustrated later. For now this is the general schematic.
 
 ![cortex_layers_map](https://github.com/sebjwallace/HTM-theory/blob/master/layersmap.png)
